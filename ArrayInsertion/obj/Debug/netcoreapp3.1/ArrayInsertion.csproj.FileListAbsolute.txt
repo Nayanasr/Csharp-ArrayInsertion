@@ -1,0 +1,14 @@
+C:\Users\107012\source\repos\ArrayInsertion\ArrayInsertion\obj\Debug\netcoreapp3.1\ArrayInsertion.csproj.AssemblyReference.cache
+C:\Users\107012\source\repos\ArrayInsertion\ArrayInsertion\obj\Debug\netcoreapp3.1\ArrayInsertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107012\source\repos\ArrayInsertion\ArrayInsertion\obj\Debug\netcoreapp3.1\ArrayInsertion.AssemblyInfoInputs.cache
+C:\Users\107012\source\repos\ArrayInsertion\ArrayInsertion\obj\Debug\netcoreapp3.1\ArrayInsertion.AssemblyInfo.cs
+C:\Users\107012\source\repos\ArrayInsertion\ArrayInsertion\obj\Debug\netcoreapp3.1\ArrayInsertion.csproj.CoreCompileInputs.cache
+C:\Users\107012\source\repos\ArrayInsertion\ArrayInsertion\bin\Debug\netcoreapp3.1\ArrayInsertion.exe
+C:\Users\107012\source\repos\ArrayInsertion\ArrayInsertion\bin\Debug\netcoreapp3.1\ArrayInsertion.deps.json
+C:\Users\107012\source\repos\ArrayInsertion\ArrayInsertion\bin\Debug\netcoreapp3.1\ArrayInsertion.runtimeconfig.json
+C:\Users\107012\source\repos\ArrayInsertion\ArrayInsertion\bin\Debug\netcoreapp3.1\ArrayInsertion.runtimeconfig.dev.json
+C:\Users\107012\source\repos\ArrayInsertion\ArrayInsertion\bin\Debug\netcoreapp3.1\ArrayInsertion.dll
+C:\Users\107012\source\repos\ArrayInsertion\ArrayInsertion\bin\Debug\netcoreapp3.1\ArrayInsertion.pdb
+C:\Users\107012\source\repos\ArrayInsertion\ArrayInsertion\obj\Debug\netcoreapp3.1\ArrayInsertion.dll
+C:\Users\107012\source\repos\ArrayInsertion\ArrayInsertion\obj\Debug\netcoreapp3.1\ArrayInsertion.pdb
+C:\Users\107012\source\repos\ArrayInsertion\ArrayInsertion\obj\Debug\netcoreapp3.1\ArrayInsertion.genruntimeconfig.cache
